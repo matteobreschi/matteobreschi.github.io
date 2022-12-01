@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "MB"
-  avatar           : "profile.png"
-  bio              : "PhD student in gravitational-wave and multi-messenger data analysis"
-  location         : "Fridrich-Schiller-Universität Jena"
-  employer         :
+  avatar           : "images/profile.png"
+  bio              : "Gravitational-wave and multi-messenger data analysis"
+  location         : "Jena, Germany"
+  employer         : "Friedrich-Schiller-Universität Jena"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"
   email            : "matteo.breschi@uni-jena.de"
