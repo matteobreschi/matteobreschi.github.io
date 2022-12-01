@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matteo Breschi"
 title_separator          : "-"
 name                     : &name "Matteo Breschi"
-description              : &description "personal description"
+description              : &description "gravitational physicist"
 url                      : https://matteobreschi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matteobreschi/matteobreschi.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "MB"
   avatar           : "images/profile.png"
-  bio              : "Gravitational-wave and multi-messenger data analysis"
+  bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.physik.uni-jena.de/tpi'>Theoretisch-Physikalisches Institut</a>, <a style='color: black;' href='https://www.uni-jena.de/'>Friedrich-Schiller-Universität Jena</a>"
   location         : "Jena, Germany"
-  employer         : "Friedrich-Schiller-Universität Jena"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"
   email            : "matteo.breschi@uni-jena.de"
