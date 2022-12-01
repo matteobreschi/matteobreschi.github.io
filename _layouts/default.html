@@ -1,35 +1,31 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang }}">
+---
+layout: compress
+---
 
-  <!-- Head -->
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-  {%- if page.redirect -%}
-    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
-  {% include head.html %}
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
-  <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body>
 
-    <!-- Header -->
-    {%- include header.html %}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <!-- Content -->
-    <div class="container mt-5">
-      {{ content }}
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
 
-    <!-- Footer -->
-    {%- include footer.html %}
+    {% include scripts.html %}
 
-    <!-- JavaScripts -->
-    {% include scripts/jquery.html %}
-    {% include scripts/bootstrap.html %}
-    {% include scripts/masonry.html %}
-    {% include scripts/misc.html %}
-    {% include scripts/mathjax.html %}
-    {% include scripts/analytics.html %}
-    {% include scripts/progressBar.html %}
   </body>
 </html>
