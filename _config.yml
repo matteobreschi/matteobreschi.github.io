@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "MB"
   avatar           : "profile.png"
-  bio              : "PhD student in gravitational-wave and multi-messenger data analysis"
-  location         : "Fridrich-Schiller-Universität Jena"
+  bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.physik.uni-jena.de/tpi'>Theoretisch-Physikalisches Institut</a>, <a style='color: black;' href='https://www.uni-jena.de/'>Friedrich-Schiller-Universität Jena</a>"
+  location         : "Jena, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"
