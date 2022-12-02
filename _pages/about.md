@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a gravitational physicist 
-working on gravitational-wave physics and multi-messenger data analysis.
+I am a theoretical physicist working on gravitational-wave physics and multi-messenger astronomy.
+My research focuses on Bayesian inference of astrophysical transients emitted by compact objects,
+such as black holes and neutron stars.
 
 I am member of the European Gravitational Observatory ([EGO](https://www.ego-gw.it/)),
 thanks to which I contribute to the experiments of [Virgo](https://www.virgo-gw.eu/) and Einstein Telescope ([ET](https://www.et-gw.eu/)).
