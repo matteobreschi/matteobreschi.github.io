@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-08-29-kilohertz-gravitational-waves
 excerpt: 'Matteo Breschi, Sebastiano Bernuzzi, Francesco Zappa, Michalis Agathos, Albino Perego, David Radice, Alessandro Nagar'
 date: 2019-08-29
-venue: 'Phys. Rev. D 100, 104029 (2019)'
+venue: 'Phys. Rev. D 100, 104029'
 paperurl: 'https://doi.org/10.1103/PhysRevD.100.104029'
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-03-14-imr-consistency-tests
 excerpt: 'Matteo Breschi, Richard O`Shaughnessy, Jacob Lange, Ofek Birnholtz'
 date: 2019-03-14
-venue: 'Class. Quantum Grav. 36 245019 (2019)'
+venue: 'Class.Quant.Grav. 36 24, 245019'
 paperurl: 'https://doi.org/10.1088/1361-6382/ab5629'
 ---
 
