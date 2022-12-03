@@ -41,6 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
+          <p>{{ page.excerpt }}</p>
           <p>Preprint on <a href=" https://arxiv.org/abs/{{ post.arxivnumber }} ">arxiv:{{ post.arxivnumber }} {{ post.arxivclass }}</a></p>
           {% if post.venue %}
             <p>Published in <a href=" {{ post.paperurl }} ">{{ post.venue }}</a></p>
@@ -55,10 +56,12 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+    {% if post.collection != 'publications' %}
+        {% if post.citation and post.paperurl %}
+          <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+        {% elsif post.citation %}
+          <p>Recommended citation: {{ post.citation }} </p>
+        {% endif %}
     {% endif %}
 
   </article>
