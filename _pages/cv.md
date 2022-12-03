@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, University of Pisa, March 2016
+* B.Sc. in Physics, University of Pisa, March 2016
     * Project title: *The Hulse-Taylor binary pulsar*
     * Supervisor: Prof. G. Cella
-* M.S. in Theoretical physics, University of Pisa, October 2018
+* M.Sc. in Theoretical physics, University of Pisa, October 2018
     * Project title: *Hierarchical Bayesian analysis of post-Newtonian gravitational waveforms*
     * Supervisor: Prof. W. Del Pozzo
 * Ph.D in Theoretical physics, Friedrich-Schiller-Universität Jena, March 2023 **(expected)**
