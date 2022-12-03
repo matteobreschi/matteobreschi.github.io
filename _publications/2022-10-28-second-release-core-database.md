@@ -12,6 +12,4 @@ We present the second data release of gravitational waveforms from binary neutro
 
 Download the data on [CoRe website](http://www.computational-relativity.org/)
 
-Visit on [arXiv:2210.16366 **[gr-qc]**](https://arxiv.org/abs/2210.16366)
-
 ![Figure](/images/publications/2022-10-28-second-release-core-database.png)

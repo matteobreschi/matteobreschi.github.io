@@ -16,6 +16,4 @@ Download the code on [GitHub](https://github.com/matteobreschi/bajes)
 
 Posterior samples of the EOB catalog are released on [Zenodo](https://doi.org/10.5281/zenodo.4476594)
 
-Visit on [arXiv:2102.00017 **[gr-qc]**](https://arxiv.org/abs/2102.00017)
-
 ![Figure](/images/publications/2021-01-29-bayesian-inference-multimessenger-astrophysical-data.png)
