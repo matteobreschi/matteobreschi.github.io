@@ -4,7 +4,7 @@ collection: talks
 type: "Plenary talk"
 permalink: /talks/2022-10-14-plenary-etm-ucd
 venue: "European Einstein Toolkit meeting, University College Dublin (UCD)"
-date: 2019-10-14
+date: 2022-10-14
 location: "Dublin, Ireland"
 ---
 
