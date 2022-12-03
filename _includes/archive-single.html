@@ -41,8 +41,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Preprint on <a href=" https://arxiv.org/abs/{{ post.arxivnumber }} "><u>arxiv:{{ post.arxivnumber }} {{ post.arxivclass }}</u></p>
-<!--              </a> ({{ post.date | default: "1900-01-01" | date: "%Y" }})-->
+          <p>Preprint on <a href=" https://arxiv.org/abs/{{ post.arxivnumber }} "><u>arxiv:{{ post.arxivnumber }} {{ post.arxivclass }}</u></a></p>
+<!--              ({{ post.date | default: "1900-01-01" | date: "%Y" }})-->
           {% if post.venue %}
             <p>Published in <a href=" https://arxiv.org/abs/{{ post.paperurl }} "><u> {{ post.vanue }} </u></a></p>
           {% endif %}
