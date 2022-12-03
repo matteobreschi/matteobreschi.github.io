@@ -1,7 +1,7 @@
 ---
-title: "Gravitational-wave class"
+title: "Gravitational-wave class 2020 (tutorial)"
 collection: teaching
-type: "M.Sc. tutorial"
+type: "M.Sc. course"
 permalink: /teaching/2020-tutorial-gw
 venue: "Theoretisch-Physikalisches Institut, Friedrich-Schiller-Universität Jena"
 date: 2020-05-01
