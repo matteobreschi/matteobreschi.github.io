@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Pisa, March 2016
+Project title: *The Hulse-Taylor binary pulsar*
+Supervisor: Prof. G. Cella
+* M.S. in Theoretical physics, University of Pisa, October 2018
+Project title: *Hierarchical Bayesian analysis of post-Newtonian gravitational waveforms*
+Supervisor: Prof. W. Del Pozzo
+* Ph.D in Theoretical physics, Friedrich-Schiller-Universität Jena, March 2023 **(expected)**
+Project title: *Inferring the equation of state with multi-messenger signals from binary neutron star mergers*
+Supervisor: Prof. S. Bernuzzi
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Scholarship for INFN–NSF/LIGO Exchange Summer School at Rochester Institute of Technology (RIT), Rochester, NY, USA
+Mentor: Prof. R. O'Shaughnessy
+* 2023: Postdoctoral fellowships in high-performance computing for astrophysics at Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
+Mentor: Prof. E. Barausse
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Italian (mother tongue), English, German
+* Digital competence: Python, Julia, C/C++, HTML, JavaScript
+* Music production and editing
 
 Publications
 ======
@@ -53,7 +51,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
