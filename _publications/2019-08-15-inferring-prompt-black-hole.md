@@ -2,7 +2,7 @@
 title: "Inferring prompt black-hole formation in neutron star mergers from gravitational-wave data"
 collection: publications
 permalink: /publication/2019-08-15-inferring-prompt-black-hole
-excerpt: 'Michalis Agathos, Francesco Zappa, Sebastiano Bernuzzi, Albino Perego, Matteo Breschi, David Radice'
+authors: 'Michalis Agathos, Francesco Zappa, Sebastiano Bernuzzi, Albino Perego, Matteo Breschi, David Radice'
 date: 2019-08-15
 venue: 'Phys.Rev.D 101 (2020) 4, 044006'
 paperurl: 'https://doi.org/10.1103/PhysRevD.101.044006'

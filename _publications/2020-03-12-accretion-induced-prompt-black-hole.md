@@ -2,7 +2,7 @@
 title: "Accretion-induced prompt black hole formation in asymmetric neutron star mergers, dynamical ejecta and kilonova signals"
 collection: publications
 permalink: /publication/2020-03-12-accretion-induced-prompt-black-hole
-excerpt: 'Sebastiano Bernuzzi, Matteo Breschi, Boris Daszuta, Andrea Endrizzi, Domenico Logoteta, Vsevolod Nedora, Albino Perego, Federico Schianchi, David Radice, Francesco Zappa, Ignazio Bombaci, Nestor Ortiz'
+authors: 'Sebastiano Bernuzzi, Matteo Breschi, Boris Daszuta, Andrea Endrizzi, Domenico Logoteta, Vsevolod Nedora, Albino Perego, Federico Schianchi, David Radice, Francesco Zappa, Ignazio Bombaci, Nestor Ortiz'
 date: 2020-03-12
 venue: 'Mon.Not.Roy.Astron.Soc. 497 (2020) 2, 1488-1507'
 paperurl: 'https://doi.org/10.1093/mnras/staa1860'

@@ -2,7 +2,7 @@
 title: "Machine Learning Gravitational Waves from Binary Black Hole Mergers"
 collection: publications
 permalink: /publication/2020-11-03-machine-learning-gravitational-waves
-excerpt: 'Stefano Schmidt, Matteo Breschi, Rossella Gamba, Giulia Pagano, Piero Rettegno, Gunnar Riemenschneider, Sebastiano Bernuzzi, Alessandro Nagar, Walter Del Pozzo'
+authors: 'Stefano Schmidt, Matteo Breschi, Rossella Gamba, Giulia Pagano, Piero Rettegno, Gunnar Riemenschneider, Sebastiano Bernuzzi, Alessandro Nagar, Walter Del Pozzo'
 date: 2020-11-03
 venue: 'Phys.Rev.D 103 (2021) 4, 043020'
 paperurl: 'https://doi.org/10.1103/PhysRevD.103.043020'

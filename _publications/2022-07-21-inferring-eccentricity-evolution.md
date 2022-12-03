@@ -2,7 +2,7 @@
 title: "Inferring eccentricity evolution from observations of coalescing binary black holes"
 collection: publications
 permalink: /publication/2022-07-21-inferring-eccentricity-evolution
-excerpt: 'Alice Bonino, Rossella Gamba, Patricia Schmidt, Alessandro Nagar, Geraint Pratten, Matteo Breschi, Piero Rettegno, Sebastiano Bernuzzi'
+authors: 'Alice Bonino, Rossella Gamba, Patricia Schmidt, Alessandro Nagar, Geraint Pratten, Matteo Breschi, Piero Rettegno, Sebastiano Bernuzzi'
 date: 2022-07-21
 arxivnumber: '2207.10474'
 arxivclass: '[gr-qc]'

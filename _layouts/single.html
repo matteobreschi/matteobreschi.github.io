@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'publications' %}
-            <p>{{ page.excerpt }}</p>
+            <p>{{ page.authors }}</p>
             <p>Preprint on <a href=" https://arxiv.org/abs/{{ page.arxivnumber }} ">arxiv:{{ page.arxivnumber }} {{ page.arxivclass }}</a></p>
             {% elsif page.venue %}
                 <p>Published in <a href=" {{ page.paperurl }} ">{{ page.venue }}</a></p>

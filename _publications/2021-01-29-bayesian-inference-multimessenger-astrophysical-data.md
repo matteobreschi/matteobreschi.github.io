@@ -2,7 +2,7 @@
 title: "`bajes`: Bayesian inference of multimessenger astrophysical data, methods and application to gravitational-waves"
 collection: publications
 permalink: /publication/2021-01-29-bayesian-inference-multimessenger-astrophysical-data
-excerpt: 'Matteo Breschi, Rossella Gamba, Sebastiano Bernuzzi'
+authors: 'Matteo Breschi, Rossella Gamba, Sebastiano Bernuzzi'
 date: 2021-01-29
 venue: 'Phys.Rev.D 104 (2021) 4, 042001'
 paperurl: 'https://doi.org/10.1103/PhysRevD.104.042001'

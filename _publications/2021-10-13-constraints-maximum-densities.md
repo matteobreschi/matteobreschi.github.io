@@ -2,7 +2,7 @@
 title: "Constraints on the maximum densities of neutron stars from postmerger gravitational waves with third-generation observations"
 collection: publications
 permalink: /publication/2021-10-13-constraints-maximum-densities
-excerpt: 'Matteo Breschi, Sebastiano Bernuzzi, Daniel Godzieba, Albino Perego, David Radice'
+authors: 'Matteo Breschi, Sebastiano Bernuzzi, Daniel Godzieba, Albino Perego, David Radice'
 date: 2021-10-13
 venue: 'Phys.Rev.Lett. 128 (2022) 16, 161102'
 paperurl: 'https://doi.org/10.1103/PhysRevLett.128.161102'

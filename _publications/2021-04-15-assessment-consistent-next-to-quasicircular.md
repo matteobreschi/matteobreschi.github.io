@@ -2,7 +2,7 @@
 title: "Assessment of consistent next-to-quasicircular corrections and post-adiabatic approximation in multipolar binary black holes waveforms"
 collection: publications
 permalink: /publication/2021-04-15-assessment-consistent-next-to-quasicircular
-excerpt: 'Gunnar Riemenschneider, Piero Rettegno, Matteo Breschi, Angelica Albertini, Rossella Gamba, Sebastiano Bernuzzi, Alessandro Nagar'
+authors: 'Gunnar Riemenschneider, Piero Rettegno, Matteo Breschi, Angelica Albertini, Rossella Gamba, Sebastiano Bernuzzi, Alessandro Nagar'
 date: 2021-04-15
 venue: 'Phys.Rev.D 104 (2021) 10, 104045'
 paperurl: 'https://doi.org/10.1103/PhysRevD.104.104045'

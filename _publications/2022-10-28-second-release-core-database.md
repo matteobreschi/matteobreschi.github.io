@@ -2,7 +2,7 @@
 title: "Second release of the CoRe database of binary neutron star merger waveforms"
 collection: publications
 permalink: /publication/2022-10-28-second-release-core-database
-excerpt: 'Alejandra Gonzalez, Francesco Zappa, Matteo Breschi, Sebastiano Bernuzzi, David Radice, Ananya Adhikari, Alessandro Camilletti, Swami Vivekanandji Chaurasia, Georgios Doulis, Surendra Padamata, Alireza Rashti, Maximiliano Ujevic, Bernd Brügmann, William Cook, Tim Dietrich, Albino Perego, Amit Poudel, Wolfgang Tichy'
+authors: 'Alejandra Gonzalez, Francesco Zappa, Matteo Breschi, Sebastiano Bernuzzi, David Radice, Ananya Adhikari, Alessandro Camilletti, Swami Vivekanandji Chaurasia, Georgios Doulis, Surendra Padamata, Alireza Rashti, Maximiliano Ujevic, Bernd Brügmann, William Cook, Tim Dietrich, Albino Perego, Amit Poudel, Wolfgang Tichy'
 date: 2022-10-28
 arxivnumber: '2210.16366'
 arxivclass: '[gr-qc]'

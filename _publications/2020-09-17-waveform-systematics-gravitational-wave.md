@@ -2,7 +2,7 @@
 title: "Waveform systematics in the gravitational-wave inference of tidal parameters and equation of state from binary neutron star signals"
 collection: publications
 permalink: /publication/2020-09-17-waveform-systematics-gravitational-wave
-excerpt: 'Rossella Gamba, Matteo Breschi, Sebastiano Bernuzzi, Michalis Agathos, Alessandro Nagar'
+authors: 'Rossella Gamba, Matteo Breschi, Sebastiano Bernuzzi, Michalis Agathos, Alessandro Nagar'
 date: 2020-09-17
 venue: 'Phys.Rev.D 103 (2021) 12, 124015'
 paperurl: 'https://doi.org/10.1103/PhysRevD.103.124015'

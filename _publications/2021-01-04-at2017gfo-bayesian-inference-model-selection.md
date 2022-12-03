@@ -2,7 +2,7 @@
 title: "AT2017gfo: Bayesian inference and model selection of multi-component kilonovae and constraints on the neutron star equation of state"
 collection: publications
 permalink: /publication/2021-01-04-at2017gfo-bayesian-inference-model-selection
-excerpt: 'Matteo Breschi, Albino Perego, Sebastiano Bernuzzi, Walter Del Pozzo, Vsevolod Nedora, David Radice, Diego Vescovi'
+authors: 'Matteo Breschi, Albino Perego, Sebastiano Bernuzzi, Walter Del Pozzo, Vsevolod Nedora, David Radice, Diego Vescovi'
 date: 2021-01-04
 venue: 'Mon.Not.Roy.Astron.Soc. 505 (2021) 2, 1661-1677'
 paperurl: 'https://doi.org/10.1093/mnras/stab1287'

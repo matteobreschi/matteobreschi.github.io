@@ -2,7 +2,7 @@
 title: "Combining effective-one-body accuracy and reduced-order-quadrature speed for binary neutron star merger parameter estimation with machine learning"
 collection: publications
 permalink: /publication/2022-10-27-combining-eob-accuracy-and-roq-speed
-excerpt: 'Jacopo Tissino, Gregorio Carullo, Matteo Breschi, Rossella Gamba, Stefano Schmidt, Sebastiano Bernuzzi'
+authors: 'Jacopo Tissino, Gregorio Carullo, Matteo Breschi, Rossella Gamba, Stefano Schmidt, Sebastiano Bernuzzi'
 date: 2022-10-27
 arxivnumber: '2210.15684'
 arxivclass: '[gr-qc]'

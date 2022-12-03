@@ -2,7 +2,7 @@
 title: "GW190521 as a dynamical capture of two nonspinning black holes"
 collection: publications
 permalink: /publication/2021-06-10-gw190521-dynamical-capture
-excerpt: 'Rossella Gamba, Matteo Breschi, Gregorio Carullo, Piero Rettegno, Simone Albanesi, Sebastiano Bernuzzi, Alessandro Nagar'
+authors: 'Rossella Gamba, Matteo Breschi, Gregorio Carullo, Piero Rettegno, Simone Albanesi, Sebastiano Bernuzzi, Alessandro Nagar'
 date: 2021-06-10
 venue: 'Nat. Astron. (2022)'
 paperurl: 'https://doi.org/10.1038/s41550-022-01813-w'
