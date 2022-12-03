@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matteo Breschi"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Matteo Breschi"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MB"
+  name             : "Matteo Breschi"
   avatar           : "profile.png"
   bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.physik.uni-jena.de/tpi'>Theoretisch-Physikalisches Institut</a>, <a style='color: black;' href='https://www.uni-jena.de/'>Friedrich-Schiller-Universität Jena</a>"
   location         : "Jena, Germany"
