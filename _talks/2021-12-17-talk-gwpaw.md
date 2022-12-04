@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-12-17-talk-gwpaw
 venue: "The gravitational wave physics and astronomy workshop (GWPAW), Albert Einstein Institute (AEI)"
-date: 2021-09-28
+date: 2021-12-17
 location: "Hannover, Germany"
 ---
 

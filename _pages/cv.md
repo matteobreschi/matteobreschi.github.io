@@ -23,9 +23,10 @@ Education
 
 Research
 ======
+* 2017: I joined the Virgo experiment in the European Gravitational Observatory (EGO)
 * Summer 2018: Scholarship for INFN–NSF/LIGO Exchange Summer School at Rochester Institute of Technology (RIT), Rochester, NY, USA
     * Mentor: Prof. R. O'Shaughnessy
-* 2023: Postdoctoral fellowships in high-performance computing for astrophysics at Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
+* 2023: Postdoctoral fellowship in high-performance computing for astrophysics at Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
     * Mentor: Prof. E. Barausse
 
 Outreach
