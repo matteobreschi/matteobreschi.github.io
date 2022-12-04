@@ -19,5 +19,4 @@ The summary page of the class can be found at [Bernuzzi's teaching page](http://
 * Linearization around black holes
 * Effective-one-body description of the general-relativistic 2-body problem
 * Strong, self-gravity and high-velocities source
-* Gravitational-wave experiments
-* Data analysis
+* Gravitational-wave experiments and data analysis
