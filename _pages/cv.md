@@ -21,10 +21,9 @@ Education
     * Project title: *Inferring the equation of state with multi-messenger signals from binary neutron star mergers*
     * Supervisor: Prof. S. Bernuzzi
 
-Research
+Work
 ======
-* 2017: I joined Virgo and the European Gravitational Observatory (EGO)
-* Summer 2018: Scholarship for INFN–NSF/LIGO Exchange Summer School at Rochester Institute of Technology (RIT), Rochester, NY, USA
+* 2018: Scholarship for INFN–NSF/LIGO exchange summer school at Rochester Institute of Technology (RIT), Rochester, NY, USA
     * Mentor: Prof. R. O'Shaughnessy
 * 2023: Postdoctoral fellowship in high-performance computing for astrophysics at Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
     * Mentor: Prof. E. Barausse
