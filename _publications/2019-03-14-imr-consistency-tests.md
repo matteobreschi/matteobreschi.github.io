@@ -1,5 +1,5 @@
 ---
-title: "Inspiral-Merger-Ringdown Consistency Tests with Higher Modes on Gravitational Signals from the Second Observing Run of LIGO and Virgo"
+title: "Inspiral-merger-ringdown consistency tests with higher modes on gravitational signals from the second observing run of LIGO and Virgo"
 collection: publications
 permalink: /publication/2019-03-14-imr-consistency-tests
 authors: 'Matteo Breschi, Richard O`Shaughnessy, Jacob Lange, Ofek Birnholtz'

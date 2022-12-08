@@ -1,5 +1,5 @@
 ---
-title: "Kilohertz Gravitational Waves From Binary Neutron Star Mergers: Numerical-relativity Informed Postmerger Model"
+title: "Kilohertz gravitational waves from binary neutron star mergers: Numerical-relativity informed postmerger model"
 collection: publications
 permalink: /publication/2022-05-18-kilohertz-gravitational-waves
 authors: 'Matteo Breschi, Sebastiano Bernuzzi, Kabir Chakravarti, Alessandro Camilletti, Aviral Prakash, Albino Perego'

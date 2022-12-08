@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Gravitational Waves from Binary Black Hole Mergers"
+title: "Machine learning gravitational waves from binary black hole mergers"
 collection: publications
 permalink: /publication/2020-11-03-machine-learning-gravitational-waves
 authors: 'Stefano Schmidt, Matteo Breschi, Rossella Gamba, Giulia Pagano, Piero Rettegno, Gunnar Riemenschneider, Sebastiano Bernuzzi, Alessandro Nagar, Walter Del Pozzo'

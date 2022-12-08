@@ -1,5 +1,5 @@
 ---
-title: "Kilohertz Gravitational Waves from Binary Neutron Star Mergers: Inference of Postmerger Signals with the Einstein Telescope"
+title: "Kilohertz gravitational waves from binary neutron star mergers: Inference of postmerger signals with the Einstein Telescope"
 collection: publications
 permalink: /publication/2022-05-20-kilohertz-gravitational-waves
 authors: 'Matteo Breschi, Sebastiano Bernuzzi, Kabir Chakravarti, Alessandro Camilletti, Aviral Prakash, Albino Perego'
