@@ -30,7 +30,8 @@ Work
 
 Outreach
 ======
-* [Pint of science 2017](https://pintofscience.it/event/sulla-cresta-dellonda-gravitazionale), Siena, Italy
+* [Pint of science (2017)](https://pintofscience.it/event/sulla-cresta-dellonda-gravitazionale), Siena, Italy
+* [Podcast Co.Scienza (12 Dec. 2022)](https://open.spotify.com/episode/4zNw8PppmUfwVRdUNZH9P5)
 
 Skills
 ======
