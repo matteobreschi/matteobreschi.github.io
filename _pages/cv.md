@@ -26,7 +26,7 @@ Work
 * 2018: Scholarship for INFN–NSF/LIGO exchange summer school at Rochester Institute of Technology (RIT), Rochester, NY, USA
     * Mentor: Prof. R. O'Shaughnessy
 * 2023: Postdoctoral fellowship in high-performance computing for astrophysics at Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste, Italy
-    * Mentor: Prof. E. Barausse
+    * Mentors: Prof. E. Barausse, Prof. R. Trotta
 
 Outreach
 ======
