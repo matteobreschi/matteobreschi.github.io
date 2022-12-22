@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -107,10 +107,10 @@
         <li><a href="{{ author.inspire }}"><i class="ai ai-fw ai-inspire-square" aria-hidden="true"></i> Inspire HEP</a></li>
       {% endif %}
       {% if author.scopus %}
-        <li><a href="{{ author.scopus }}"><i class="ai ai-fw ai-scopus-square" aria-hidden="true"></i> Scopus</a></li>
+        <li><a href="{{ author.scopus }}"><i class="ai ai-fw ai-scopus" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
