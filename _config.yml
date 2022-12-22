@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Matteo Breschi"
   avatar           : "profile.png"
-  bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.physik.uni-jena.de/tpi'>Theoretisch-Physikalisches Institut</a>, <a style='color: black;' href='https://www.uni-jena.de/'>Friedrich-Schiller-Universität Jena</a>"
-  location         : "Jena, Germany"
+  bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.sissa.it/app/'>Astroparticle physics</a> and <a style='color: black;' href='https://datascience.sissa.it/'>Data science</a>, <a style='color: black;' href='https://www.sissa.it/'>International School for Advanced Studies (SISSA)</a>"
+  location         : "Trieste, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"
+  inspire          : "https://inspirehep.net/authors/1881416"
   email            : "matteo.breschi@uni-jena.de"
   researchgate     : "https://www.researchgate.net/profile/Matteo-Breschi"
   uri              :
