@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Matteo Breschi"
   avatar           : "profile.png"
-  bio              : "Gravitational-wave and multi-messenger data analysis <br> <br> <a style='color: black;' href='https://www.sissa.it/app/'>Astroparticle physics</a> and <a style='color: black;' href='https://datascience.sissa.it/'>Data science</a>"
-  employer         : "<a style='color: black;' href='https://www.sissa.it/'> SISSA</a>"
-  location         : "<a style='color: black;' href='https://www.google.it/maps/place/SISSA+Scuola+Internazionale+Superiore+di+Studi+Avanzati/@45.6811267,13.7643091,15.04z/data=!4m12!1m6!3m5!1s0x477b6b5347fa4dc3:0x6e94dec68212367b!2sSISSA+Scuola+Internazionale+Superiore+di+Studi+Avanzati!8m2!3d45.6798013!4d13.7750631!3m4!1s0x477b6b5347fa4dc3:0x6e94dec68212367b!8m2!3d45.6798013!4d13.7750631'> Trieste, Italy</a>"
+  bio              : "Gravitational-wave and multi-messenger data analysis"
+  employer         : "SISSA"
+  employerlink     : "https://www.sissa.it/"
+  location         : "Trieste, Italy"
   email            : "matteo.breschi@uni-jena.de"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"

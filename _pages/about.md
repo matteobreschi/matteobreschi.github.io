@@ -14,7 +14,7 @@ such as black holes and neutron stars.
 
 Currently, I am a postdoctoral fellow at the International School for Advanced Studies ([SISSA](https://www.sissa.it/))
 in the Astroparticle physics ([APP](https://www.sissa.it/app/))
-and Theoretical and scientific data science ([TSDS](https://datascience.sissa.it/)) groups.
+and the Theoretical and scientific data science ([TSDS](https://datascience.sissa.it/)) groups.
 I am member of the European Gravitational Observatory ([EGO](https://www.ego-gw.it/)),
 thanks to which I contribute to the experiments of [Virgo](https://www.virgo-gw.eu/)
 and Einstein Telescope ([ET](https://www.et-gw.eu/)).
