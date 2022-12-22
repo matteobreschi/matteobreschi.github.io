@@ -104,7 +104,10 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.inspire %}
-        <li><a href="{{ author.inspire }}"><i class="ai ai-inspire-square ai-1x" aria-hidden="true"></i> Inspire HEP</a></li>
+        <li><a href="{{ author.inspire }}"><i class="ai ai-fw ai-inspire-square" aria-hidden="true"></i> Inspire HEP</a></li>
+      {% endif %}
+      {% if author.scopus %}
+        <li><a href="{{ author.scopus }}"><i class="ai ai-fw ai-scopus-square" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
