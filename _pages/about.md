@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 I am a theoretical physicist working on gravitational-wave physics and multi-messenger astronomy.
-My research focuses on data analysis of astrophysical transients emitted by compact objects,
+My research focuses on modeling and data analysis of astrophysical transients emitted by compact objects,
 such as black holes and neutron stars.
+I am also interested in the development of Bayesian inference techniques and in machine learning applications.
 
 Currently, I am a postdoctoral fellow at the International School for Advanced Studies ([SISSA](https://www.sissa.it/))
 in the Astroparticle physics ([APP](https://www.sissa.it/app/))
