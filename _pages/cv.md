@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.Sc. in Physics, University of Pisa, March 2016
-    * Project title: *The Hulse-Taylor binary pulsar*
+    * Thesis title: *The Hulse-Taylor binary pulsar*
     * Supervisor: Prof. G. Cella
 * M.Sc. in Theoretical physics, University of Pisa, October 2018
-    * Project title: *Hierarchical Bayesian analysis of post-Newtonian gravitational waveforms*
+    * Thesis title: *Hierarchical Bayesian analysis of post-Newtonian gravitational waveforms*
     * Supervisor: Prof. W. Del Pozzo
-* Ph.D in Theoretical physics, Friedrich-Schiller-Universität Jena, March 2023 **(expected)**
-    * Project title: *Inferring the equation of state with multi-messenger signals from binary neutron star mergers*
+* Ph.D in Theoretical physics, Friedrich-Schiller-Universität Jena, March/April 2023 **(expected)**
+    * Thesis title: *Inferring the equation of state with multi-messenger signals from binary neutron star mergers*
     * Supervisor: Prof. S. Bernuzzi
 
 Work
@@ -30,8 +30,8 @@ Work
 
 Outreach
 ======
-* [Pint of science (2017)](https://pintofscience.it/event/sulla-cresta-dellonda-gravitazionale), Siena, Italy
-* [Podcast Co.Scienza (12 Dec. 2022)](https://open.spotify.com/episode/4zNw8PppmUfwVRdUNZH9P5)
+* [Pint of science (May 2018)](https://pintofscience.it/event/sulla-cresta-dellonda-gravitazionale), Siena, Italy
+* [Co.Scienza (Dec. 2022)](https://open.spotify.com/episode/4zNw8PppmUfwVRdUNZH9P5)
 
 Skills
 ======
