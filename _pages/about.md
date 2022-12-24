@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Figure](/images/waveform_blue_thin.pdf)
+![Figure](/images/g55.png)
 
 I am a theoretical physicist working on gravitational-wave physics and multi-messenger astronomy.
 My research focuses on modeling and data analysis of astrophysical transients emitted by compact objects,
