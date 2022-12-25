@@ -17,7 +17,7 @@ Education
 * M.Sc. in Theoretical physics, University of Pisa, October 2018
     * Thesis title: *Hierarchical Bayesian analysis of post-Newtonian gravitational waveforms*
     * Supervisor: Prof. W. Del Pozzo
-* Ph.D in Theoretical physics, Friedrich-Schiller-Universität Jena, March/April 2023 **(expected)**
+* Ph.D. in Theoretical physics, Friedrich-Schiller-Universität Jena, March/April 2023 **(expected)**
     * Thesis title: *Inferring the equation of state with multi-messenger signals from binary neutron star mergers*
     * Supervisor: Prof. S. Bernuzzi
 
