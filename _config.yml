@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Summary"
 title_separator          : "-"
 name                     : &name "Matteo Breschi"
 description              : &description "personal description"
