@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/binary.gif" width="750" />
+![Figure](/images/g55.png)
 
 I am a theoretical physicist working on gravitational-wave physics and multi-messenger astronomy.
 My research focuses on modeling and data analysis of astrophysical transients emitted by compact objects,
