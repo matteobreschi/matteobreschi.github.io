@@ -20,7 +20,8 @@ in the Astroparticle physics ([APP](https://www.sissa.it/app/))
 and the Theoretical and scientific data science ([TSDS](https://datascience.sissa.it/)) groups.
 I am member of the European Gravitational Observatory ([EGO](https://www.ego-gw.it/)),
 thanks to which I contribute to the experiments of [Virgo](https://www.virgo-gw.eu/)
-and Einstein Telescope ([ET](https://www.et-gw.eu/)).
+and Einstein Telescope ([ET](https://www.et-gw.eu/)),
+and I recently joined the [LISA Consortium](https://www.elisascience.org/).
 Moreover, I am also part of the Computational Relativity collaboration ([CoRe](http://www.computational-relativity.org/)).
 
 In these pages, you can find useful links and information on my research.
