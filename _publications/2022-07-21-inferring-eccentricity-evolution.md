@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-21-inferring-eccentricity-evolution
 authors: 'Alice Bonino, Rossella Gamba, Patricia Schmidt, Alessandro Nagar, Geraint Pratten, Matteo Breschi, Piero Rettegno, Sebastiano Bernuzzi'
 date: 2022-07-21
-venue: 'Phys.Rev.Lett. 107 (2023) 064024'
+venue: 'Phys. Rev. D 107 (2023) 064024'
 paperurl: 'https://doi.org/10.1103/PhysRevD.107.064024'
 arxivnumber: '2207.10474'
 arxivclass: '[gr-qc]'
