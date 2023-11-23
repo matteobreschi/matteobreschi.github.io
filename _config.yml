@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matteo Breschi"
   avatar           : "profile.png"
-  bio              : "Gravitational-wave physics and multi-messenger astronomy"
-  employer         : "SISSA"
-  employerlink     : "https://www.sissa.it/"
-  location         : "Trieste, Italy"
+  bio              : "Gravitational-wave data analysis"
+  employer         : "-"
+  employerlink     :
+  location         : "Italy"
   locationlink     : "https://goo.gl/maps/NBsGpeE6TsisEgei6"
-  email            : "mbreschi@sissa.it"
+  email            : "matteo.breschi@yahoo.it"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Mg5w8KwAAAAJ&hl=it"
   inspire          : "https://inspirehep.net/authors/1881416"
